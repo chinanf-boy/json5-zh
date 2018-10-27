@@ -15,7 +15,7 @@
 
 ---
 
-## 校对 🀄️
+## 校对 ✅
 
 <!-- doc-templite START generated -->
 <!-- repo = 'json5/json5' -->
@@ -30,6 +30,10 @@
 [commit]: https://github.com/json5/json5/tree/69c4a75d345a58a773148dd9c05ce74e668dc87d
 
 <!-- doc-templite END generated -->
+
+- [x] Readme
+- [ ] 我在想[官方规范](https://json5.github.io/json5-spec/)要不要翻译，
+
 
 ### 贡献
 
