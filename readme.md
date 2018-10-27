@@ -53,8 +53,7 @@
 # JSON5 - 人类的 JSON
 
 [![Build Status](https://travis-ci.org/json5/json5.svg)][build status]
-[![Coverage
-Status](https://coveralls.io/repos/github/json5/json5/badge.svg)][coverage status]
+[![Coverage Status](https://coveralls.io/repos/github/json5/json5/badge.svg)][coverage status]
 
 数据交换格式(JSON5)是[JSON]的超集，旨在通过从[ECMAScript 5.1]学到的些东东，来扩展JSON语法，以减轻 JSON 的一些限制.
 
