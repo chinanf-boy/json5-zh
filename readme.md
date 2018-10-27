@@ -47,8 +47,44 @@
 
 ### 目录
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [JSON5 - 人类的 JSON](#json5---%E4%BA%BA%E7%B1%BB%E7%9A%84-json)
+  - [功能摘要](#%E5%8A%9F%E8%83%BD%E6%91%98%E8%A6%81)
+    - [对象-Objects](#%E5%AF%B9%E8%B1%A1-objects)
+    - [数组-Arrays](#%E6%95%B0%E7%BB%84-arrays)
+    - [字符串-Strings](#%E5%AD%97%E7%AC%A6%E4%B8%B2-strings)
+    - [数字-Numbers](#%E6%95%B0%E5%AD%97-numbers)
+    - [注释-Comments](#%E6%B3%A8%E9%87%8A-comments)
+    - [额外空格-White Space](#%E9%A2%9D%E5%A4%96%E7%A9%BA%E6%A0%BC-white-space)
+  - [简短的例子](#%E7%AE%80%E7%9F%AD%E7%9A%84%E4%BE%8B%E5%AD%90)
+  - [规范](#%E8%A7%84%E8%8C%83)
+  - [安装](#%E5%AE%89%E8%A3%85)
+    - [Node.js](#nodejs)
+    - [浏览器](#%E6%B5%8F%E8%A7%88%E5%99%A8)
+  - [API](#api)
+    - [JSON5.parse()](#json5parse)
+      - [语法参考](#%E8%AF%AD%E6%B3%95%E5%8F%82%E8%80%83)
+      - [参数](#%E5%8F%82%E6%95%B0)
+      - [返回值](#%E8%BF%94%E5%9B%9E%E5%80%BC)
+    - [JSON5.stringify()](#json5stringify)
+      - [语法参考](#%E8%AF%AD%E6%B3%95%E5%8F%82%E8%80%83-1)
+      - [参数](#%E5%8F%82%E6%95%B0-1)
+      - [返回值](#%E8%BF%94%E5%9B%9E%E5%80%BC-1)
+    - [Node.js 的JSON5 文件`require()`](#nodejs-%E7%9A%84json5-%E6%96%87%E4%BB%B6require)
+  - [CLI](#cli)
+    - [安装](#%E5%AE%89%E8%A3%85-1)
+    - [用法](#%E7%94%A8%E6%B3%95)
+      - [选项:](#%E9%80%89%E9%A1%B9)
+  - [贡献](#%E8%B4%A1%E7%8C%AE)
+    - [开发](#%E5%BC%80%E5%8F%91)
+    - [问题](#%E9%97%AE%E9%A2%98)
+  - [执照](#%E6%89%A7%E7%85%A7)
+  - [里程](#%E9%87%8C%E7%A8%8B)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # JSON5 - 人类的 JSON
 
