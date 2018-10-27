@@ -9,7 +9,7 @@
 [size-img]: https://packagephobia.now.sh/badge?p=Name
 [size]: https://packagephobia.now.sh/result?p=Name
 
-「 数据交换格式(JSON5)是.的超集[JSON] 」
+「 数据交换格式(JSON5)是[JSON]的超集 」
 
 [中文](./readme.md) | [english](https://github.com/json5/json5)
 
@@ -56,7 +56,7 @@
 [![Coverage
 Status](https://coveralls.io/repos/github/json5/json5/badge.svg)][coverage status]
 
-数据交换格式(JSON5)是.的超集[JSON]，旨在通过从[ECMAScript 5.1]学到的些东东，来扩展JSON语法，以减轻 JSON 的一些限制.
+数据交换格式(JSON5)是[JSON]的超集，旨在通过从[ECMAScript 5.1]学到的些东东，来扩展JSON语法，以减轻 JSON 的一些限制.
 
 此 JavaScript 库是 JSON5 解析{parse}和序列化{serialization}库的官方参考实现.
 
