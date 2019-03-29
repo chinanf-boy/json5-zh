@@ -21,10 +21,9 @@
 <!-- repo = 'json5/json5' -->
 <!-- commit = '69c4a75d345a58a773148dd9c05ce74e668dc87d' -->
 <!-- time = '2018-09-28' -->
-
-| 翻译的原文 | 与日期        | 最新更新 | 更多                       |
-| ---------- | ------------- | -------- | -------------------------- |
-| [commit]   | ⏰ 2018-09-28 | ![last]  | [中文翻译][translate-list] |
+翻译的原文 | 与日期 | 最新更新 | 更多
+---|---|---|---
+[commit] | ⏰ 2018-09-28 | ![last] | [中文翻译][translate-list]
 
 [last]: https://img.shields.io/github/last-commit/json5/json5.svg
 [commit]: https://github.com/json5/json5/tree/69c4a75d345a58a773148dd9c05ce74e668dc87d
@@ -41,7 +40,7 @@
 
 ## 生活
 
-[help me live , live need money 💰](https://github.com/chinanf-boy/live-need-money)
+[If help, **buy** me coffee —— 营养跟不上了，给我来瓶营养快线吧! 💰](https://github.com/chinanf-boy/live-need-money)
 
 ---
 
